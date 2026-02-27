@@ -2,7 +2,7 @@
 
 Official repository for the <b> Video Anomaly Classification Using DenseNet Feature Extractor</b>
 
-* Link to Paper   -  [Click Here](https://link.springer.com/chapter/10.1007/978-981-19-2126-1_28)
+
 * Link to Dataset -  [Click Here](https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0)
 
 ### Notebooks
